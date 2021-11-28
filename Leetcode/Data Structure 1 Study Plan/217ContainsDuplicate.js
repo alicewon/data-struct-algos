@@ -39,4 +39,4 @@ var containsDuplicate2 = function(nums) {
 
 // TODO:
     //  Try with Set https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
-    //  Try bloonfilters https://llimllib.github.io/bloomfilter-tutorial/
+    //  Try bloomfilters https://llimllib.github.io/bloomfilter-tutorial/
